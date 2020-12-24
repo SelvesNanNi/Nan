@@ -12,6 +12,8 @@
         <module>peipei-flink</module>
         <module>peipei-kafka</module>
         <module>peipei-netty</module>
+        <module>peipei-provider</module>
+        <module>peipei-algorithm</module>
     </modules>
         <dependencies>
             <!--        插件类-->
