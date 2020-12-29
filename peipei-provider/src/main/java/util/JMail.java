@@ -15,9 +15,10 @@ public class JMail {
     static int port = 587;
     static String fromUser = "selves3moa@gmail.com";
     static String fromUserEmailPassword = "google121610";
+    static String address = "540165987@qq.com";
 
     public static void main(String[] args) {
-        send("nizhengnan@lizhi.fm", "Tiya", "官方验证码");
+        send("540165987@qq.com", "Tiya", "官方验证码");
     }
 
     public static void send(String To_mail, String Mail_title, String Mail_text) {
